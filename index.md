@@ -15,4 +15,4 @@ one word...
 * mustard
 * and of course... **BACON!!!*
 
-[sizzling bacon](http://giphygifs.s3.amazonaws.com/media/PJ3wMa5ImiVY4/giphy.gif)
+[sizzling bacon](images/bacon.gif)
