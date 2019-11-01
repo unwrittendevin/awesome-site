@@ -1,22 +1,18 @@
-You can use markdown to add content to you webpage.
+# Cheese
+onw word...
+**amazing!**
 
-Here are some highlights of markdown syntax.
+## Burgers
+*cheese & burgers are better together*
 
-# Heading 1
-## Heading 2
-### Heading 3
+### Things to put on cheese+burgers
 
-**bold**
-*italics*
+* onion
+* lettuce
+* tomato
+* pickles
+* mayo
+* mustard
+* and of course... **BACON!!!*
 
-1. List Item 1
-2. List Item 2
-
-* Bullet 1
-* Bullet 2
-* Bullet 3
-
-[This is a link](https://google.com)
-
-Here is an image. Don't forget some alt text for better accessibility!
-![Image of GitHub's mascot Octocat](images/Octocat.png)
+[sizzling bacon](http://giphygifs.s3.amazonaws.com/media/PJ3wMa5ImiVY4/giphy.gif)
