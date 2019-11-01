@@ -5,7 +5,7 @@ one word...
 ## Burgers
 *cheese & burgers are better together*
 
-### Things to put on cheese+burgers
+### Things to put on cheeseburgers
 
 * onion
 * lettuce
